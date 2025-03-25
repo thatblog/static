@@ -1,0 +1,23 @@
+{
+  "name": "@thatblog/static",
+  "description": "Static assets for Thatblog",
+  "version": "latest",
+  "private": true,
+  "scripts": {
+    "build": ""
+  },
+  "repository": "https://github.com/thatblog/static",
+  "bugs": "https://github.com/thatblog/static/issues",
+  "homepage": "https://github.com/thatblog/static",
+  "author": "jdrydn <james@jdrydn.com> (https://jdrydn.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.15",
+    "@tailwindcss/postcss": "^4.0.15",
+    "autoprefixer": "^10.4.21",
+    "cssnano": "^7.0.6",
+    "postcss": "^8.5.3",
+    "postcss-import": "^16.1.0",
+    "tailwindcss": "^4.0.15"
+  }
+}

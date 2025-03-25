@@ -1,0 +1,20 @@
+baseurl: /static
+timezone: UTC
+exclude:
+  - .git/
+  - .github/
+  - _config.yml
+  - .gitignore
+  - .prettierrc.json
+  - README.md
+  - LICENSE
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - '*.config.js'
+
+plugins:
+  - jekyll-postcss
+
+postcss:
+  cache: false
