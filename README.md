@@ -1,6 +1,6 @@
-# static
+# @thatblog/static
 
-Public static files for Thatblog application
+Static files publicly available for the Thatblog application
 
 | Files                                                                             | Description            |
 | --------------------------------------------------------------------------------- | ---------------------- |
